@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/969390034221600451/25f279e14d6f4bf8beadfdf4d71b34c0/artifacts
+end_time: 1780284563726
+entry_point_name: ''
+experiment_id: '969390034221600451'
+lifecycle_stage: active
+run_id: 25f279e14d6f4bf8beadfdf4d71b34c0
+run_name: agreeable-sloth-249
+run_uuid: 25f279e14d6f4bf8beadfdf4d71b34c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780284544595
+status: 3
+tags: []
+user_id: Labhesh

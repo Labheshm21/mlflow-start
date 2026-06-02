@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/969390034221600451/6fe4f79f087244eb9ab8a9eb717217e2/artifacts
+end_time: 1780364481116
+entry_point_name: ''
+experiment_id: '969390034221600451'
+lifecycle_stage: active
+run_id: 6fe4f79f087244eb9ab8a9eb717217e2
+run_name: salty-hog-346
+run_uuid: 6fe4f79f087244eb9ab8a9eb717217e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780364465990
+status: 3
+tags: []
+user_id: Labhesh

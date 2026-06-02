@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/969390034221600451/094ad791c8bc4b1eaa025c0c271b6704/artifacts
+end_time: 1780266288805
+entry_point_name: ''
+experiment_id: '969390034221600451'
+lifecycle_stage: active
+run_id: 094ad791c8bc4b1eaa025c0c271b6704
+run_name: omniscient-zebra-845
+run_uuid: 094ad791c8bc4b1eaa025c0c271b6704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780266275325
+status: 3
+tags: []
+user_id: Labhesh

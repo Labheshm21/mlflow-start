@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/969390034221600451/00018f414b7842e7af580463259eb496/artifacts
+end_time: 1780265995478
+entry_point_name: ''
+experiment_id: '969390034221600451'
+lifecycle_stage: active
+run_id: 00018f414b7842e7af580463259eb496
+run_name: marvelous-wasp-255
+run_uuid: 00018f414b7842e7af580463259eb496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780265978009
+status: 3
+tags: []
+user_id: Labhesh
