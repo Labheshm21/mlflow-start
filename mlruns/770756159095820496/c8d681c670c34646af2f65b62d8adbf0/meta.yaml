@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ops/mlflow-start/mlruns/770756159095820496/c8d681c670c34646af2f65b62d8adbf0/artifacts
+end_time: 1780859404432
+entry_point_name: ''
+experiment_id: '770756159095820496'
+lifecycle_stage: active
+run_id: c8d681c670c34646af2f65b62d8adbf0
+run_name: polite-carp-452
+run_uuid: c8d681c670c34646af2f65b62d8adbf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780859370545
+status: 3
+tags: []
+user_id: Labhesh

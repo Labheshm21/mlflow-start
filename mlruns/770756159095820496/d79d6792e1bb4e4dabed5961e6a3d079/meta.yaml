@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ops/mlflow-start/mlruns/770756159095820496/d79d6792e1bb4e4dabed5961e6a3d079/artifacts
+end_time: 1780859382565
+entry_point_name: ''
+experiment_id: '770756159095820496'
+lifecycle_stage: active
+run_id: d79d6792e1bb4e4dabed5961e6a3d079
+run_name: loud-pug-446
+run_uuid: d79d6792e1bb4e4dabed5961e6a3d079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780859382456
+status: 3
+tags: []
+user_id: Labhesh

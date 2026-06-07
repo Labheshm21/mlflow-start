@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ops/mlflow-start/mlruns/770756159095820496/bf334dcb1d23468a9b2e607ebfd8494c/artifacts
+end_time: 1780859381967
+entry_point_name: ''
+experiment_id: '770756159095820496'
+lifecycle_stage: active
+run_id: bf334dcb1d23468a9b2e607ebfd8494c
+run_name: smiling-moose-65
+run_uuid: bf334dcb1d23468a9b2e607ebfd8494c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780859381739
+status: 3
+tags: []
+user_id: Labhesh

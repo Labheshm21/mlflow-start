@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1780859987825
+current_stage: None
+description: ''
+last_updated_timestamp: 1780859987825
+name: Labhesh model1
+run_id: c8d681c670c34646af2f65b62d8adbf0
+run_link: ''
+source: file:///E:/ops/mlflow-start/mlruns/770756159095820496/c8d681c670c34646af2f65b62d8adbf0/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///E:/ops/mlflow-start/mlruns/770756159095820496/c8d681c670c34646af2f65b62d8adbf0/artifacts/random_forest
+user_id: null
+version: 1

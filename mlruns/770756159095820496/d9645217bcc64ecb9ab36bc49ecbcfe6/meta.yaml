@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ops/mlflow-start/mlruns/770756159095820496/d9645217bcc64ecb9ab36bc49ecbcfe6/artifacts
+end_time: 1780859381729
+entry_point_name: ''
+experiment_id: '770756159095820496'
+lifecycle_stage: active
+run_id: d9645217bcc64ecb9ab36bc49ecbcfe6
+run_name: enthused-stag-877
+run_uuid: d9645217bcc64ecb9ab36bc49ecbcfe6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780859381609
+status: 3
+tags: []
+user_id: Labhesh

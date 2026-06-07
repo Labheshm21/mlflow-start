@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ops/mlflow-start/mlruns/770756159095820496/42486af471ce4ac38d745db248077bf0/artifacts
+end_time: 1780859382198
+entry_point_name: ''
+experiment_id: '770756159095820496'
+lifecycle_stage: active
+run_id: 42486af471ce4ac38d745db248077bf0
+run_name: trusting-newt-971
+run_uuid: 42486af471ce4ac38d745db248077bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780859381975
+status: 3
+tags: []
+user_id: Labhesh

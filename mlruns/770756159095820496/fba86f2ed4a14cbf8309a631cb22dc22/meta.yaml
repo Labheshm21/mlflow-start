@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ops/mlflow-start/mlruns/770756159095820496/fba86f2ed4a14cbf8309a631cb22dc22/artifacts
+end_time: 1780859382449
+entry_point_name: ''
+experiment_id: '770756159095820496'
+lifecycle_stage: active
+run_id: fba86f2ed4a14cbf8309a631cb22dc22
+run_name: lyrical-frog-161
+run_uuid: fba86f2ed4a14cbf8309a631cb22dc22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780859382207
+status: 3
+tags: []
+user_id: Labhesh
